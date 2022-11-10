@@ -11,6 +11,4 @@
 - 0초가 되면 초기화 됩니다.
 - Reset을 누르면 초기화 됩니다.
 
-https://oneny.github.io/timer/
 
-https://yunwoo-yu.github.io/Timer/
